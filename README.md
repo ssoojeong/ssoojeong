@@ -35,9 +35,9 @@ Here's a little bit more about me:
 
 ## 🏆 Recent Projects
 - ### 🎨 Style Transfer Using Diffusion Models
-  - Focused on leveraging semantic shape guidance for precise source image preservation during style transfer.
-  - (Submitted to CVPR 2025) S. Kim, J. Lee "S2PreST: Semantic-Shape-Guided Style Transfer in Inversion-Based Diffusion for Source Images Preservation" [View Project & Code](https://github.com/ssoojeong/S2PreST.git)
   - Style transfer to novel views using correspondences between photos and sketches [View Project & Code](https://github.com/ssoojeong/Style_Transfer_to_Novel_Views.git)
+  - (Submitted to CVPR 2025) S. Kim, J. Lee "S2PreST: Semantic-Shape-Guided Style Transfer in Inversion-Based Diffusion for Source Images Preservation" [View Project & Code](https://github.com/ssoojeong/S2PreST.git)
+  - Focused on leveraging semantic shape guidance for precise source image preservation during style transfer.
 - ### **🌟 Demos** [View Project & Code](https://github.com/ssoojeong/Webtoon_InST.git)
   - **The AI Show 2024** - AutoML Lab Booth, Ilsan, Korea, October 23-25, 2024
   - **2024 Digital Innovation Talent Symposium** - Seoul, Korea, August 22-23, 2024
