@@ -13,7 +13,7 @@ Here's a little bit more about me:
   - [CAU AutoML Lab](http://ml.cau.ac.kr/)
 
 - ### 📚 Research Interests:
-  - Style Transfer [View Project & Code](https://github.com/ssoojeong/Style_Transfer_SOTA_Models.git)
+  - Style Transfer [View Project](https://github.com/ssoojeong/Style_Transfer_SOTA_Models.git), [Code](https://github.com/ssoojeong/Style_Transfer_SOTA_Models_v2.git)
   - Diffusion based Image Generation
   - Image-to-Image Translation
  
