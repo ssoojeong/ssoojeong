@@ -48,7 +48,7 @@ Here's a little bit more about me:
 ---
 
 ## 📝 Publications
-- S. Kim, A. Moon, M. Kim and J. Lee "A Study of Style Transfer based on Text to Image Diffusion Models" The 43rd IEEE International Conference on Consumer Electronics (ICCE 2025), Las Vegas, USA, 11-14 January 2025. [Paper Link](https://drive.google.com/file/d/1HEqo99ew1ocv_f1DmFJf5eplb3pd8zUl/view?usp=sharing), [View Project & Code](https://github.com/ssoojeong/A_Study_of_Style_Transfer_using_T2I_Models.git)
+- S. Kim, A. Moon, M. Kim and J. Lee "A Study of Style Transfer based on Text to Image Diffusion Models" The 43rd IEEE International Conference on Consumer Electronics (ICCE 2025), Las Vegas, USA, 11-14 January 2025. [Paper Link](https://drive.google.com/file/d/1KyWPqq2VJrLfBOHDZNVNc1SFZiZocKRV/view?usp=sharing), [View Project & Code](https://github.com/ssoojeong/A_Study_of_Style_Transfer_using_T2I_Models.git)
 - C. Lee, H. Lee, K. Kim S. Kim and J. Lee "An Efficient Fine-Tuning of Generative Language Model for Aspect-Based Sentiment Analysis," The 42nd IEEE Int. Conf. On Consumer Electronics (ICCE 2024), Las Vegas, USA, 5-8 January 2024. [Paper Link](https://drive.google.com/file/d/1Eo7jJuafjhN68_6kHLcA-pW169HHhvZv/view?usp=sharing)
 - S. Kim, A. Moon, J. Lee "A Study of Text Guided Image Generation Based on Diffusion Model" The Summer Annual Conference of the Institute of Electronics and Information Engineers (IEIE 2023), Jeju, South Korea, 28-30 June 2023. [Paper Link](https://drive.google.com/file/d/1HEqo99ew1ocv_f1DmFJf5eplb3pd8zUl/view?usp=sharing), [View Project & Code](https://github.com/ssoojeong/Diffusion-based_Text-to-Image_Generation.git)
 
