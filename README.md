@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 
 I'm passionate about **Computer Vision**, with a strong focus on Image Synthesis and Style Transfer.
 
-Here's a little bit more about me:
+Here's a little bit more about me: [Portfolio](https://ssoojeong.github.io/)
 
 ---
 
